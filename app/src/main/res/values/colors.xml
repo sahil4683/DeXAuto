@@ -1,0 +1,7 @@
+<resources>
+    <color name="dex_bg">#121317</color>
+    <color name="dex_taskbar">#1E2025</color>
+    <color name="dex_accent">#4F8DF5</color>
+    <color name="dex_text">#F2F2F2</color>
+    <color name="dex_text_dim">#9AA0A6</color>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DexAuto</string>
+    <string name="tap_to_start">Tap to start mirroring</string>
+    <string name="stop_mirroring">Stop</string>
+</resources>

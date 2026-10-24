@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Minimal descriptor. "video" is the loosest category accepted by the
+  unofficial app list (same category AA Browser-style apps use); it does
+  NOT grant any special privileges, it's just what lets the icon register
+  with Android Auto's app list at all once Unknown Sources is enabled.
+-->
+<automotiveApp>
+    <uses name="video" />
+</automotiveApp>
